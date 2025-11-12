@@ -1,3 +1,3 @@
 # konform
 
-> Coming soon
+## Coming soon
